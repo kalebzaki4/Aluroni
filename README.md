@@ -15,7 +15,17 @@ O Aluroni é um site que tem como objetivo fornecer um caminho de aprendizado es
 
 ## Como Contribuir 🤝
 
-Se você deseja contribuir para o Aluroni, fique à vontade para enviar pull requests com melhorias, correções de bugs ou novos recursos. Sinta-se livre para abrir issues caso encontre algum problema ou tenha sugestões de melhoria.
+Contribuições são bem-vindas! Sinta-se à vontade para enviar pull requests com melhorias, correções de bugs ou novos recursos. Caso queira contribuir, siga as etapas abaixo:
+
+1. Faça um fork deste repositório.
+2. Crie um novo branch para suas alterações: `git checkout -b minha-contribuicao`.
+3. Implemente as alterações desejadas e faça commits: `git commit -m "Minha contribuição"`.
+4. Envie suas alterações para o repositório remoto: `git push origin minha-contribuicao`.
+5. Abra um pull request descrevendo suas alterações.
+
+## Criador 👤
+
+Este projeto foi criado por [Kalebzaki4](https://github.com/Kalebzaki4).
 
 ## Como Utilizar o Projeto 🚀
 
@@ -30,5 +40,3 @@ Se você deseja contribuir para o Aluroni, fique à vontade para enviar pull req
 - Site da Alura: [https://www.alura.com.br/](https://www.alura.com.br/)
 
 Aproveite sua jornada de aprendizado com React e TypeScript no Aluroni!
-
-**Observação:** Este projeto é fictício e o conteúdo mencionado neste README é apenas ilustrativo. Certifique-se de fornecer informações reais e relevantes sobre o seu próprio repositório.
